@@ -26,15 +26,13 @@ fs-5-software-intro-projects/
     │   └── pid-equation-all-terms.png
     └── project-outputs/
         ├── WriteUp.pdf
+        ├── FS-Poster.pdf
         ├── Images/
         │   ├── Flowchart.JPG
         │   └── Notes.jpg
         ├── P-only-graphs/
         │   ├── velocity_KP0.1_KI0_KD0.png
         │   └── velocity_KP0.2_KI0_KD0.png
-        ├── Integral-graphs/
-        │   ├── velocity_KP0.2_KI0.1_KD0.1.png
-        │   └── error_KP0.2_KI0.1_KD0.1.png
         ├── PID-graphs/
         │   ├── velocity_KP0.2_KI0.1_KD0.1.png
         │   └── error_KP0.2_KI0.1_KD0.1.png
