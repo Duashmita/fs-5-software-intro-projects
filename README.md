@@ -8,7 +8,7 @@ The File Structure for the project:
 ```
 fs-5-software-intro-projects/
 ├── .gitignore
-├── PLEASE-README.md
+├── README.md
 ├── requirements.txt                 # numpy, matplotlib, torch
 ├── venv/                            # Python environment (not tracked)
 └── auto/
